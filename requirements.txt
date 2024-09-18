@@ -23,7 +23,7 @@ faiss-cpu==1.7.3
 fastapi==0.78.0
 filelock==3.8.0
 Flask==2.2.3
-Flask-Cors==3.1.1
+Flask-Cors==4.0.1  # Updated to available version
 Flask-SQLAlchemy==3.0.2
 flatbuffers==2.0
 fpdf==1.7.2
@@ -41,7 +41,7 @@ h5py==3.7.0
 hpack==4.0.0
 hstspreload==2024.8.1
 httpcore==0.15.0
-httpx==0.27.0  # Adjusted to be compatible with gotrue
+httpx==0.27.0
 huggingface-hub==0.12.1
 hyperframe==6.0.0
 idna==3.4

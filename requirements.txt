@@ -77,7 +77,7 @@ pandas==1.5.3
 pillow==9.0.1
 postgrest==0.16.11
 protobuf==4.22.5
-pyarrow==11.0.0
+pyarrow==15.0.0
 pyasn1==0.5.0
 pydantic==1.10.7
 pydantic_core==2.0.0

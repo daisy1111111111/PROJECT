@@ -19,7 +19,6 @@ dill==0.3.8
 distro==1.7.0
 docx2txt==0.8
 ecdsa==0.18.0
-faiss-cpu==1.7.3
 fastapi==0.78.0
 filelock==3.8.0
 Flask==2.2.3
@@ -33,7 +32,6 @@ gast==0.5.3
 google-pasta==0.2.0
 gotrue==2.7.0
 greenlet==2.0.2
-groq==0.10.0
 grpcio==1.51.1
 h11==0.13.0
 h2==4.0.0
